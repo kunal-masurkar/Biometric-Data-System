@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python biocipher.py
+python biometric_system.py
 ```
 
 ### Default Admin Credentials
