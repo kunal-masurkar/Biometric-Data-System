@@ -41,7 +41,7 @@ biometric-data-system/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/biometric-data-system.git
+git clone https://github.com/kunal-masurkar/biometric-data-system.git
 cd biometric-data-system
 ```
 
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-python biometric_system.py
+python biocipher.py
 ```
 
 ### Default Admin Credentials
@@ -88,3 +88,12 @@ This is a demonstration project and includes several security features, but for 
 
 - Python 3.7+
 - cryptography package
+
+## License
+This project is **open-source** and available under the **MIT License**.
+
+---
+
+## Author
+👨‍💻 Developed by **Kunal Masurkar**  
+🌐 [GitHub](https://github.com/kunal-masurkar) | 🔗 [LinkedIn](https://linkedin.com/in/kunal-masurkar-8494a123a)
